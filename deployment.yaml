@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: register-app
-          image: kushaggarwal/java-application:1.0.0-2
+          image: kushaggarwal/java-application:1.0.0-4
           resources:
             limits:
               memory: "256Mi"
